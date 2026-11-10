@@ -1,4 +1,4 @@
-# Take-Home: Task Producer/Consumer System
+# Task Producer/Consumer System
 
 A two-tier worker architecture with shared PostgreSQL persistence, REST communication, and integrated observability (Prometheus + Grafana + pprof).
 
